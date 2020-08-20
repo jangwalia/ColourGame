@@ -3,6 +3,6 @@
 ## This game really helps to understand how create colour patterns using RGB format.
 ![image](image/GuessColour.png)
 ## Easy Mode will Look Like This.
-![image](Easy.png)
+![image](image/Easy.png)
 ## when correct color is guessed whole screen will light up...lol
 ![image](image/winner.png)
