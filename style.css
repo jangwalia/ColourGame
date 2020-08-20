@@ -1,0 +1,35 @@
+.jumbotron{
+    background-color:rgb(211, 195, 195);
+    height:300;
+}
+.level{
+    margin-top:-34px;
+}
+
+.level a:hover{
+    background: cadetblue;
+}
+.card{
+    height:100px;
+    border-radius:10px;
+    cursor: pointer;
+    border:none;
+    transition: all 0.3s;
+
+}
+#topColor{
+    text-transform: uppercase;
+}
+.colors{
+    margin-top: 50px;
+
+}
+.btn{
+    background:none;
+    color:cadetblue;
+    border:none;
+}
+.select{
+    background: cadetblue;
+    color:white;
+}
