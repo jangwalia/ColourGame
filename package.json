@@ -1,0 +1,19 @@
+{
+  "name": "color-game-javascript",
+  "version": "1.0.0",
+  "description": "![image](image/GuessColour.png)\r ## Easy Mode will Look Like This.\r ![image](image/Easy.png)\r ## when correct color is guessed whole screen will light up...lol\r ![image](image/winner.png)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jangwalia/ColourGame.git"
+  },
+  "author": "walia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jangwalia/ColourGame/issues"
+  },
+  "homepage": "https://github.com/jangwalia/ColourGame#readme"
+}
