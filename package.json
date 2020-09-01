@@ -4,7 +4,7 @@
   "description": "![image](image/GuessColour.png)\r ## Easy Mode will Look Like This.\r ![image](image/Easy.png)\r ## when correct color is guessed whole screen will light up...lol\r ![image](image/winner.png)",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "app.js"
   },
   "repository": {
     "type": "git",
